@@ -1,0 +1,6 @@
+D:\Projects\Jaimin Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+D:\Projects\Jaimin Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\Projects\Jaimin Projects\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\Projects\Jaimin Projects\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+D:\Projects\Jaimin Projects\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+D:\Projects\Jaimin Projects\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
